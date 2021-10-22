@@ -8,6 +8,7 @@
                               Instagram: zackhammer_junon,
                               snapchat: jtias;
                             }
+                            <a href="https://www.linkedin.com/in/junan-tias-077a061b2/"><img src="https://i.ibb.co/Pzx8HHJ/linkedin-101-hero-2x.png" alt="linkedin" border="0"></a>
 
 <!---
 Jtias/Jtias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
