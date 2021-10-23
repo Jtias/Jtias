@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Junan Nashit Tias;
+- 👋 Hi, I’m Junan from Bangladesh;
 - 👀 I’m interested in Technology, Art and Programming;
-- 🎮 I'm into competetive pc games ie, CSGO, Valorant even though I don't play as much anymore. HMU in discord if you'd like to play together;
+- 🎮 I'm into competetive pc games like CSGO, Valorant even though I don't play as much anymore. HMU in discord if you'd like to play together;
 - 👨🏼‍🎓 I’m currently studying bachelor of Computer Science in University of Regina;
 - 🤝 I’m looking to collaborate on any projects that fall under my interests; 
 - 📫 Socials: 
