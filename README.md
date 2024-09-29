@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Junan from Bangladesh;
 - 👀 I’m interested in Technology, Art and Programming;
-- 👨🏼‍🎓 I’m a Computer Science graduate from University of Regina, Class of 2021;
+- 👨🏼‍🎓 I’m a Computer Science graduate from University of Regina, Class of Fall 2021;
 - 💼 At the moment, I am working at role of Senior Repair Technician at Dell MBR REWORK at Ivy Technologies, Toronto, Canada;
 - 🎮 I'm into competetive pc games like CSGO, Valorant even though I don't play as much anymore. HMU in discord if you'd like to play together;
 - 🤝 I’m looking to collaborate on any projects that fall under my interests; 
